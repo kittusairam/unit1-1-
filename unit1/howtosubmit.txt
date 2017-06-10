@@ -1,0 +1,10 @@
+->Solve all the tasks and assignments which you can and zip your folder and send them to smeccoders@gmail.com .
+
+->Make sure your zip name will be in this format <unit_number>_<your_name>_<your_year_section>.zip ,Ex : unit1_abhijith_4A.zip
+
+->Your submissions will be graded on how many tasks you solved ,How many answers you got right and How good you have done your assignments (Testing it with various test cases too ) .
+
+->Dont take any shortcuts to your learning curve like copying from net or friends just to complete the tasks , YOU wont learn that way ,Even if it takes time ,Take time and solve on your own ,Only discuss with your friends the approaches but not codes .
+
+->There would no extra points for submitting very soon ,(If you do its great ,but its optional ) .So take your time and learn well .
+
